@@ -1,2 +1,5 @@
 # clox
-code for a great book "Crafting Interpreters"
+Sample code in a great book "Crafting Interpreters".
+
+Reference:
+    - [Crafting Interpreters](http://craftinginterpreters.com/chunks-of-bytecode.html)
