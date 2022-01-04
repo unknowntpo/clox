@@ -12,7 +12,7 @@ else
 endif
 
 TARGET = clox
-OBJS := main.o chunk.o
+OBJS := main.o chunk.o memory.o debug.o
 
 $(TARGET): $(OBJS)
 	$(VECHO) "  LD\t$@\n"
