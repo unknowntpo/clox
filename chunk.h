@@ -14,5 +14,6 @@ typedef struct {
 } Chunk;
 
 void initCHunk(Chunk *chunk);
+void writeChunk(Chunk *chunk, uint8_t byte);
 
 #endif
